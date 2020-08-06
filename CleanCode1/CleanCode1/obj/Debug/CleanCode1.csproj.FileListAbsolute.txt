@@ -1,0 +1,7 @@
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\obj\Debug\CleanCode1.csprojAssemblyReference.cache
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\obj\Debug\CleanCode1.csproj.CoreCompileInputs.cache
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\bin\Debug\CleanCode1.exe.config
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\bin\Debug\CleanCode1.exe
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\bin\Debug\CleanCode1.pdb
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\obj\Debug\CleanCode1.exe
+C:\Users\nqcuo\source\repos\CleanCode1\CleanCode1\obj\Debug\CleanCode1.pdb
